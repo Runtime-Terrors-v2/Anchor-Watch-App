@@ -1,0 +1,13 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "ANCHOR phone companion module",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@hw-agconnect/hmcore": "1.0.5",
+    "@hw-agconnect/function-ohos": "^1.0.5",
+    "@hw-agconnect/api-ohos": "^1.1.2"
+  }
+}

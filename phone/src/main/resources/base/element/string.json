@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "ANCHOR phone companion"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "ANCHOR"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ANCHOR"
+    },
+    {
+      "name": "bluetooth_reason",
+      "value": "ANCHOR needs Bluetooth to monitor your paired Huawei Watch connection"
+    },
+    {
+      "name": "background_reason",
+      "value": "ANCHOR needs to run in background to continuously monitor watch connection"
+    }
+  ]
+}
