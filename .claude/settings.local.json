@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(wc -l /c/Users/harsh/Downloads/Anchor/Anchor/entry/src/main/ets/services/*.ets)",
-      "Read(//c/Users/harsh/Downloads/**)"
-    ]
-  }
-}
